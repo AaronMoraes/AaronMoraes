@@ -8,5 +8,5 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><br/>
 <img align="center" alt="c#" src= "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-</div>
+</div> <br/>
 Cursando Curso Técnico e no final do Enisno Médio, Evoluindo sempre!
