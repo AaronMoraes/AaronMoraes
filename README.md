@@ -9,5 +9,7 @@ Meu nome é Aaron Moraes!🧑🏾‍💻 <br/> <br/>
     <img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
     <img align= "center" alt= "mysql" src= "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
     <img align="center" alt="c" src= "https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+    <img align="center" alt="php" src="https://img.shields.io/wordpress/plugin/required-php/:slug"> 
+    <img align="center" alt="js" src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript"> 
 </div> <br/>
 Cursando Curso Técnico e no final do Enisno Médio, Evoluindo sempre!
