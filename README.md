@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Aaron+Moraes;I'm+17+years+old;I+am+from+Araraquara,+SP;I+study+Desenvolvimento+Web+at+ETEC;Be+Welcome!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Aaron+Passos;Tenho+17+anos;Moro+em+Araraquara,+SP;Eu+estudo+Analise+e+Desenvolvimento+de+Sistemas+na+UNIP;Bem+Vindo!)](https://git.io/typing-svg)
 
 
 <div align="center">  
