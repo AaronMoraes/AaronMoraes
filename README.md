@@ -51,6 +51,13 @@ Gosto de aprender através da prática, criando projetos e buscando constantemen
   <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 </p>
 
+### 🔤 Linguagens
+
+<p>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+</p>
+
 ### 🗄️ Banco de dados
 
 <p>
