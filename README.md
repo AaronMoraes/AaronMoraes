@@ -4,7 +4,7 @@
 
 ### `Full Stack Developer Júnior`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=22D3EE&center=true&vCenter=true&width=650&height=50&lines=Desenvolvedor+Full+Stack+J%C3%BAnior;C%23+%7C+.NET+%7C+JavaScript+%7C+SQL;Sempre+aprendendo+e+construindo+novos+projetos" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=22D3EE&center=true&vCenter=true&width=650&height=50&lines=Desenvolvedor+Full+Stack+J%C3%BAnior;C%23+%7C+.NET+%7C+JavaScript+%7C+Python;Sempre+aprendendo+e+construindo+novos+projetos" alt="Typing SVG" />
 
 <br>
 
@@ -26,7 +26,7 @@ Sou **desenvolvedor Full Stack Júnior**, atualmente cursando **Análise e Desen
 
 Possuo formação técnica em **Desenvolvimento de Software pela ETEC de Araraquara**, onde tive contato com programação, desenvolvimento web, banco de dados e fundamentos de engenharia de software.
 
-Atualmente estou aprofundando meus conhecimentos principalmente em **C#, .NET, APIs, JavaScript e bancos de dados**, além de estudar ferramentas e práticas utilizadas no desenvolvimento profissional.
+Atualmente estou aprofundando meus conhecimentos principalmente em **C#, .NET, APIs, JavaScript, Python e bancos de dados**, além de estudar ferramentas e práticas utilizadas no desenvolvimento profissional.
 
 Gosto de aprender através da prática, criando projetos e buscando constantemente evoluir minhas habilidades como desenvolvedor.
 
@@ -34,36 +34,40 @@ Gosto de aprender através da prática, criando projetos e buscando constantemen
 
 ## 💻 Tecnologias
 
-### 🌐 Front-end
+### 🔤 Linguagens de programação
+
+<p>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+</p>
+
+### 🌐 Desenvolvimento Web
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
-### ⚙️ Back-end
+### ⚙️ Back-end & Frameworks
 
 <p>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-</p>
-
-### 🔤 Linguagens
-
-<p>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </p>
 
 ### 🗄️ Banco de dados
 
 <p>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 ### 🛠️ Ferramentas
@@ -81,19 +85,33 @@ Gosto de aprender através da prática, criando projetos e buscando constantemen
 
 ### 📦 Gestão de Pedidos
 
-API desenvolvida utilizando **C# e .NET**, com foco em gerenciamento de pedidos e aplicação de conceitos de orientação a objetos, DTOs, mapeamento e estruturação de uma API REST.
+Sistema Web para gerenciamento de pedidos e produtos desenvolvido para lanchonetes.
 
-**Tecnologias:** `C#` `ASP.NET Core` `.NET` `API REST`
+O projeto utiliza **HTML, JavaScript e PHP**, trabalhando com páginas, carrinho, produtos, pedidos e conexão com banco de dados. citeturn2view0
+
+**Tecnologias:** `HTML` `CSS` `JavaScript` `PHP` `SQL`
 
 🔗 [**Ver projeto no GitHub**](https://github.com/AaronMoraes/GestaodePedidos)
 
 ---
 
+### 🌐 ApiEstudos
+
+Projeto criado para estudar e praticar o desenvolvimento de **APIs utilizando C# e .NET**.
+
+É um projeto de estudos em andamento, utilizado para aprofundar conhecimentos em desenvolvimento de APIs e tecnologias do ecossistema .NET. citeturn1view0
+
+**Tecnologias:** `C#` `.NET` `ASP.NET Core` `API REST`
+
+🔗 [**Ver projeto no GitHub**](https://github.com/AaronMoraes/ApiEstudos)
+
+---
+
 ### 🎓 Projeto TCC
 
-Projeto desenvolvido durante minha formação técnica, colocando em prática conhecimentos de desenvolvimento de software, programação e banco de dados.
+Projeto desenvolvido durante minha formação técnica na ETEC, consistindo em um **website de vendas de carrinhos de lanches**. citeturn0view0
 
-**Tecnologias:** `C#` `SQL` `HTML` `CSS` `JavaScript`
+**Tecnologias:** `HTML` `CSS` `JavaScript` `PHP`
 
 🔗 [**Ver projeto no GitHub**](https://github.com/AaronMoraes/TCC)
 
@@ -121,7 +139,7 @@ Projeto desenvolvido durante minha formação técnica, colocando em prática co
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AaronMoraes&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&title_color=22D3EE&icon_color=22D3EE&text_color=CBD5E1" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaronMoraes&layout=compact&langs_count=8&theme=transparent&hide_border=true&title_color=22D3EE&text_color=CBD5E1" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaronMoraes&layout=compact&langs_count=10&theme=transparent&hide_border=true&title_color=22D3EE&text_color=CBD5E1" />
 
 </div>
 
