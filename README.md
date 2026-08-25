@@ -87,7 +87,7 @@ Gosto de aprender através da prática, criando projetos e buscando constantemen
 
 Sistema Web para gerenciamento de pedidos e produtos desenvolvido para lanchonetes.
 
-O projeto utiliza **HTML, JavaScript e PHP**, trabalhando com páginas, carrinho, produtos, pedidos e conexão com banco de dados. citeturn2view0
+O projeto utiliza **HTML, JavaScript e PHP**, trabalhando com páginas, carrinho, produtos, pedidos e conexão com banco de dados. 
 
 **Tecnologias:** `HTML` `CSS` `JavaScript` `PHP` `SQL`
 
@@ -99,7 +99,7 @@ O projeto utiliza **HTML, JavaScript e PHP**, trabalhando com páginas, carrinho
 
 Projeto criado para estudar e praticar o desenvolvimento de **APIs utilizando C# e .NET**.
 
-É um projeto de estudos em andamento, utilizado para aprofundar conhecimentos em desenvolvimento de APIs e tecnologias do ecossistema .NET. citeturn1view0
+É um projeto de estudos em andamento, utilizado para aprofundar conhecimentos em desenvolvimento de APIs e tecnologias do ecossistema .NET.
 
 **Tecnologias:** `C#` `.NET` `ASP.NET Core` `API REST`
 
@@ -109,7 +109,7 @@ Projeto criado para estudar e praticar o desenvolvimento de **APIs utilizando C#
 
 ### 🎓 Projeto TCC
 
-Projeto desenvolvido durante minha formação técnica na ETEC, consistindo em um **website de vendas de carrinhos de lanches**. citeturn0view0
+Projeto desenvolvido durante minha formação técnica na ETEC, consistindo em um **website de vendas de carrinhos de lanches**. 
 
 **Tecnologias:** `HTML` `CSS` `JavaScript` `PHP`
 
@@ -131,17 +131,6 @@ Projeto desenvolvido durante minha formação técnica na ETEC, consistindo em u
 
 </div>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AaronMoraes&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&title_color=22D3EE&icon_color=22D3EE&text_color=CBD5E1" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaronMoraes&layout=compact&langs_count=10&theme=transparent&hide_border=true&title_color=22D3EE&text_color=CBD5E1" />
-
-</div>
 
 ---
 
