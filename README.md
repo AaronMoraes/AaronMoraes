@@ -101,16 +101,6 @@ Projeto criado para estudar e praticar o desenvolvimento de **APIs utilizando C#
 
 ---
 
-### 🎓 Projeto TCC
-
-Projeto desenvolvido durante minha formação técnica na ETEC, consistindo em um **website de vendas de carrinhos de lanches**. 
-
-**Tecnologias:** `HTML` `CSS` `JavaScript` `PHP`
-
-🔗 [**Ver projeto no GitHub**](https://github.com/AaronMoraes/TCC)
-
----
-
 ## 📚 Atualmente estudando
 
 <div align="center">
