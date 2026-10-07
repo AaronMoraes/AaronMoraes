@@ -77,15 +77,15 @@ Gosto de aprender através da prática, criando projetos e buscando constantemen
 
 ## 🚀 Projetos em destaque
 
-### 📦 Gestão de Pedidos
+### 📦 Gestão de Pedidos (PedeGo)
 
 Sistema Web para gerenciamento de pedidos e produtos desenvolvido para lanchonetes.
 
 O projeto utiliza **HTML, JavaScript e PHP**, trabalhando com páginas, carrinho, produtos, pedidos e conexão com banco de dados. 
 
-**Tecnologias:** `HTML` `CSS` `JavaScript` `PHP` `SQL`
+**Tecnologias:** `HTML` `CSS` `JavaScript` `PHP` `SQL` `.NET` `Docker` 
 
-🔗 [**Ver projeto no GitHub**](https://github.com/AaronMoraes/GestaodePedidos)
+🔗 [**Ver projeto no GitHub**](https://github.com/AaronMoraes/PedeGoFront)
 
 ---
 
