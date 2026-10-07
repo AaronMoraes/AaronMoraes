@@ -83,7 +83,7 @@ Sistema Web para gerenciamento de pedidos e produtos desenvolvido para lanchonet
 
 O projeto utiliza **HTML, JavaScript e PHP**, trabalhando com páginas, carrinho, produtos, pedidos e conexão com banco de dados. 
 
-**Tecnologias:** `HTML` `CSS` `JavaScript` `PHP` `SQL` `.NET` `Docker` 
+**Tecnologias:** `HTML` `CSS` `JavaScript` `PHP` `SQL` `.NET` `Docker` `C#` `API REST`
 
 🔗 [**Ver projeto no GitHub**](https://github.com/AaronMoraes/PedeGoFront)
 
@@ -95,7 +95,7 @@ Projeto criado para estudar e praticar o desenvolvimento de **APIs utilizando C#
 
 É um projeto de estudos em andamento, utilizado para aprofundar conhecimentos em desenvolvimento de APIs e tecnologias do ecossistema .NET.
 
-**Tecnologias:** `C#` `.NET` `ASP.NET Core` `API REST`
+**Tecnologias:** `C#` `.NET` `ASP.NET Core` `API REST` 
 
 🔗 [**Ver projeto no GitHub**](https://github.com/AaronMoraes/ApiEstudos)
 
