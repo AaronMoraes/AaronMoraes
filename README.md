@@ -77,6 +77,13 @@ Gosto de aprender através da prática, criando projetos e buscando constantemen
 
 ## 🚀 Projetos em destaque
 
+### 📦 PeladaPlay
+PeladaPlay é uma aplicação Full-Stack (Progressive Web App) desenvolvida para transformar a gestão de clubes de futebol amador e peladas de fim de semana. O sistema automatiza a criação de partidas, rateios financeiros transparentes, lista de espera, confirmação via Pix e súmulas oficiais com estatísticas.
+
+O projeto utiliza **HTML5, CSS3**, com design system personalizado e tema escuro / PLAY tech), JavaScript (ES6+). Banco de dados SQL.
+
+🔗 [**Ver projeto no GitHub**](https://github.com/AaronMoraes/PeladaPlay)
+
 ### 📦 Gestão de Pedidos (PedeGo)
 
 Sistema Web para gerenciamento de pedidos e produtos desenvolvido para lanchonetes.
